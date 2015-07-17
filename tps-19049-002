@@ -1,0 +1,7 @@
+*
+   TABLE NAME: STATIC_CONTENT_REPOSITORY
+   -------------------------------------
+   RID - INTEGER (AUTO NUMBER)
+   CATEGORY - VARCHAR(10)
+   JSON_DATA - VARCHAR(500)
+*/Enter file contents here
